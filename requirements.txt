@@ -1,8 +1,2 @@
 tweepy
 requests
-
-git init
-git add main.py requirements.txt
-git commit -m "Initial commit"
-git remote add origin https://github.com/kevinon811/811_moniter_x.git
-git push -u origin main
