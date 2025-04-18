@@ -12,7 +12,7 @@ ACCESS_TOKEN = "你的ACCESS_TOKEN"
 ACCESS_TOKEN_SECRET = "你的ACCESS_TOKEN_SECRET"
 
 # ntfy.sh 主題
-NTFY_TOPIC = "fakeloh-updates"
+NTFY_TOPIC = "811_monitor_x"
 
 # 設置 X API 認證
 auth = tweepy.OAuthHandler(API_KEY, API_SECRET)
